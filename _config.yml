@@ -1,14 +1,29 @@
+name: HV Fotografía
+favicon: null
 layout_spectrum: 0.8305005
 typography_spectrum: 0.4285835
+title: 'Descubriendo Visión, Revelando Capital'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.830827
-  lightness: 0.5139635
-  brandStrength: 0.9723657
   brandColors:
     - '#04919A'
     - '#FCFCFD'
     - '#C5DAE7'
     - '#88C7C6'
     - '#4A8AAA'
+  brandStrength: 0.9723657
+  lightness: 0.5139635
+  saturation: 0.830827
   rhythmicContrast: 0.2207304
-name: HV Fotografía
+purpose: []
